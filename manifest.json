@@ -1,0 +1,46 @@
+{
+  "name": "Gmail Attachment Downloading Assistance",
+  "version": "0.0.7.3",
+  "manifest_version": 2,
+  "description": "Filter all the reqiured attachment and download them",
+	"background": {
+    "scripts": ["main.js"]
+  },
+  "oauth2": {
+    "client_id": "488870312519-rsfmmm2u26poff9i151dgrcud8loe652.apps.googleusercontent.com",
+    "scopes": [
+        "https://www.googleapis.com/auth/gmail.readonly"
+	]
+  },
+  "icons": {
+    "16": "img/default_icon.png",
+    "48": "img/default_icon.png",
+    "128": "img/default_icon.png"
+  },
+  "browser_action": {
+    "default_icon": "img/default_icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+	"identity",
+	"*://*.google.com/*",
+    "storage",
+	"tabs",
+    "https://www.googleapis.com/*",
+    "https://*.googleusercontent.com/*",
+	"https://mail.google.com/"
+  ],
+  "content_security_policy": "script-src https://*.google.com 'unsafe-eval'; object-src 'self'",
+  "web_accessible_resources": [
+    "jquery-1.10.2.min.js",
+    "gmail.js",
+    "main_save.js",
+	"img/*.png"
+  ],
+  "content_scripts" : [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["inboxsdk.js","content.js","app.js"]
+    }
+	]
+}
