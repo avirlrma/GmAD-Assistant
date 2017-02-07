@@ -11,12 +11,14 @@ Download the .crx file from [here](www.google.com). Open Extensions page in chro
 ## How to use?
 + Click the extension icon on the top right corner of your screen.
 + In the popup, fill out the search form and click Search.
-+ Now sit back and relax! 
++ Now sit back and relax! :tropical_drink:
 
 **Note:** If you are downloading alot of files(>5), then you might wanna check off the "Ask where to save each file" service.You can do this by going to Settings>Advanced Settings>Downlaods.
 
-### Demo links: 
- Watch this youtube video: 
+### Demo Video: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Few words of precautions:
 
