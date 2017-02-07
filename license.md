@@ -1,7 +1,8 @@
 MIT License
 
 Copyright (c) 2017 CodeSnipers
-CodeSnipers is a team of three members: Aviral Verma, Faizal Hasanwala 
+<br>
+**CodeSnipers** is a team of three members: Aviral Verma, Faizal Hasanwala 
 and Prateek roushan which collaborated to make this project for a campus
 hackathon : Microsoft Code.Fun.Do :)
 
