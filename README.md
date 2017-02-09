@@ -18,7 +18,7 @@
 ### Demo Video: 
 <a href="https://drive.google.com/open?id=0B0moOT7RQy9UOURSRWdKajlIMTg
 " target="_blank"><img src="https://github.com/Aviral1701/GmAD-Assistant/blob/master/dsks.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="900" height="400" border="10" /></a>
 
 ## Authors:
 + [Aviral Verma](https://github.com/Aviral1701)
