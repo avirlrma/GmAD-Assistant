@@ -16,8 +16,8 @@
 **Note:** If you are downloading alot of files(>5), then you might wanna check off the "Ask where to save each file" service.You can do this by going to Settings>Advanced Settings>Downlaods.
 
 ### Demo Video: 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://drive.google.com/open?id=0B0moOT7RQy9UOURSRWdKajlIMTg
+" target="_blank"><img src="https://github.com/Aviral1701/GmAD-Assistant/blob/master/dsks.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Authors:
